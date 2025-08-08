@@ -7,7 +7,7 @@ Email: xingyuef[at]vt.edu
 
 #### About Me
 
-During my undergraduate studies, I had the privilege to participate in summer research (**暑期学术研究**) at the [Kihara Lab](https://kiharalab.org/) at Purdue University, working on **protein–ligand docking** and **biomolecule design**. I also collaborated with [Prof. Guangwei Zhang](https://keck.usc.edu/faculty-search/guangwei-zhang/) at the University of Southern California on **3D reconstruction of mouse spinal cord atlases**. My work involved applying AI-driven protein design models, molecular docking pipelines, and 3D modeling tools to tackle problems in computational biology and structural bioinformatics.
+During my undergraduate studies, I had the privilege to participate in summer research at the [Kihara Lab](https://kiharalab.org/) at Purdue University, working on **protein–ligand docking** and **biomolecule design**. I also collaborated with [Prof. Guangwei Zhang](https://keck.usc.edu/faculty-search/guangwei-zhang/) at the University of Southern California on **3D reconstruction of mouse spinal cord atlases**. My work involved applying AI-driven protein design models, molecular docking pipelines, and 3D modeling tools to tackle problems in computational biology and structural bioinformatics.
 
 #### Research Interests
 Computational Biology, Protein–RNA Interaction, Molecular Design, Structure Prediction.
