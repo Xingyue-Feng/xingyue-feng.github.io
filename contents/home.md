@@ -1,4 +1,4 @@
-[![xingyuefeng](https://img.shields.io/badge/xingyuefeng-github-blue?logo=github)](https://github.com/xingyuefeng)
+[![xingyuefeng](https://img.shields.io/badge/xingyuefeng-github-blue?logo=github)](https://github.com/Xingyue-Feng)
 
 I am currently a Ph.D. student in the Department of Computer Science at Virginia Tech, working in the [Bhattacharya Lab](https://people.cs.vt.edu/dbhattacharya/) on computational biology, artificial intelligence in structural biology.
 
