@@ -1,17 +1,13 @@
+[![xingyuefeng](https://img.shields.io/badge/xingyuefeng-github-blue?logo=github)](https://github.com/xingyuefeng)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a Ph.D. student in the Department of Computer Science at Virginia Tech, working in the [Bhattacharya Lab](https://people.cs.vt.edu/dbhattacharya/) on computational biology, artificial intelligence in structural biology.
 
 #### Contact
+Email: xingyuef[at]vt.edu
 
-Email: senli[at]fas.harvard.edu
+#### About Me
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+During my undergraduate studies, I had the privilege to participate in summer research (**暑期学术研究**) at the [Kihara Lab](https://kiharalab.org/) at Purdue University, working on **protein–ligand docking** and **biomolecule design**. I also collaborated with [Prof. Guangwei Zhang](https://keck.usc.edu/faculty-search/guangwei-zhang/) at the University of Southern California on **3D reconstruction of mouse spinal cord atlases**. My work involved applying AI-driven protein design models, molecular docking pipelines, and 3D modeling tools to tackle problems in computational biology and structural bioinformatics.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Computational Biology, Protein–RNA Interaction, Molecular Design, Structure Prediction.
