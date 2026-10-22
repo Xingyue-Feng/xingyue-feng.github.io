@@ -12,4 +12,4 @@ Email: xingyuef[at]vt.edu
 My current research lies at the intersection of computational biology and artificial intelligence, with an emphasis on **protein structure prediction**, **protein dynamics and trajectory analysis**, and **protein function prediction**. I am interested in developing data-driven methods that connect protein sequences, structures, dynamics, and biological functions. During my undergraduate studies, I conducted summer research at the [Kihara Lab](https://kiharalab.org/) at Purdue University on protein–ligand docking and biomolecule design. I also collaborated with [Prof. Guangwei Zhang](https://keck.usc.edu/faculty-search/guangwei-zhang/) at the University of Southern California on 3D reconstruction of mouse spinal cord atlases.
 
 #### Research Interests
-Protein Structure Prediction, Protein Dynamics and Trajectory Analysis, Protein Function Prediction.
+Computational Biology, Protein Structure Prediction, Protein Dynamics and Trajectory Analysis, Protein Function Prediction.
